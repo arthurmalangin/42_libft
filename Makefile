@@ -38,7 +38,15 @@ FILES = ft_atoi \
 		ft_strtrim \
 		ft_substr \
 		ft_tolower \
-		ft_toupper
+		ft_toupper \
+		ft_printf \
+		ft_printf_char \
+		ft_printf_decimal \
+		ft_printf_hex_address \
+		ft_printf_param \
+		ft_printf_string \
+		ft_printf_unsigned_decimal \
+		ft_putnbr_base \
 
 FILES_B = 	ft_lstnew_bonus \
 			ft_lstadd_back_bonus \
