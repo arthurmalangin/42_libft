@@ -1,6 +1,6 @@
 # Libft
 
-_First project on 42, make this own library._
+_First project on 42, make this own library. (Merge with ft_printf)_
 
 ## Global
 
