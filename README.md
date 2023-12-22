@@ -5,6 +5,7 @@ _First project on 42, make this own library._
 ## Global
 
 Make his own library.
+_I added Printf project into it._
 
 ## Compilation
 
