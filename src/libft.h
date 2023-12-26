@@ -70,4 +70,14 @@ int		ft_memcmp(const void *memoryBlock1,
 			const void *memoryBlock2, size_t size_to_compare);
 int		ft_atoi(const char *string);
 int		ft_strncmp(const char *string, const char *string2, size_t size);
+
+int		ft_printf(const char *str, ...);
+int		ft_printf_param(va_list args, char c);
+int		ft_printf_char(int c);
+int		ft_printf_string(char *str);
+int		ft_printf_decimal(int nb);
+int		ft_printf_unsigned_decimal(unsigned int nb);
+int		ft_printf_hex_address(void *ptr);
+int		ft_putnbr_base(unsigned long long nb, char *base);
+int		ft_putchar(char c);
 #endif
