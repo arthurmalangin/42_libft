@@ -1,6 +1,6 @@
 # Libft
 
-_First project on 42, make this own library. (Merge with ft_printf)_
+_First project at 42 school involving the recreation of standard C library functions. This project teaches memory management, string manipulation, and foundational programming concepts.. (Merge with ny ft_printf project)_
 
 ## Global
 
